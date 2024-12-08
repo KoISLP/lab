@@ -1,9 +1,9 @@
 # ISLP_labs
 
 # 저자
-Trevor Hastie
-Robert Tibshirani
-Daniela Witten
+Trevor Hastie,     
+Robert Tibshirani,     
+Daniela Witten    
 
 
 
