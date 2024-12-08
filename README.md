@@ -13,7 +13,7 @@ Daniela Witten
 
 
 - 3장 선형회귀 : 
-[!Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KoISLP/lab/blob/main/Ch03-linreg-lab.ipynb)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KoISLP/lab/blob/main/Ch03-linreg-lab.ipynb)  
 
 - 4장 분류 : 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KoISLP/lab/blob/main/Ch04-classification-lab.ipynb)  
@@ -34,13 +34,13 @@ Daniela Witten
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KoISLP/lab/blob/main/Ch09-svm-lab.ipynb)  
 
 - 10장 딥러닝 : 
-[!Open In Colab](https://colab.research.google.com/github/KoISLP/lab/blob/main/Ch10-deeplearning-lab.ipynb)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KoISLP/lab/blob/main/Ch10-deeplearning-lab.ipynb)  
 
 - 11장 생존분석과 중도절단자료 : 
-[!Open In Colab](https://colab.research.google.com/github/KoISLP/lab/blob/main/Ch11-surv-lab.ipynb)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KoISLP/lab/blob/main/Ch11-surv-lab.ipynb)  
 
 - 12장 비지도학습 : 
-[!Open In Colab](https://colab.research.google.com/github/KoISLP/lab/blob/main/Ch12-unsup-lab.ipynb)   
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KoISLP/lab/blob/main/Ch12-unsup-lab.ipynb)   
 
 - 13장 다중검정 : 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KoISLP/lab/blob/main/Ch13-multiple-lab.ipynb)
