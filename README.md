@@ -1,9 +1,7 @@
 # 기초부터 다지는 통계학 교과서(ISLP_labs)
 
-# 저자
-Trevor Hastie,     
-Robert Tibshirani,     
-Daniela Witten    
+# [강의용 자료](https://drive.google.com/drive/folders/1LZ6sPEQIAA02P4F_hhBD298wrh7o9iGK?usp=sharing)       
+
 
 ---------------------------------------------
 # 목차
@@ -45,7 +43,8 @@ Daniela Witten
 - 13장 다중검정 : 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KoISLP/lab/blob/main/Ch13-multiple-lab.ipynb)
 
-========================
+---------------------------------------------
+
 # 인용               
 @book{song2024intro,           
   author    = {송영숙 and 유현조},            
