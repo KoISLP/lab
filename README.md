@@ -1,9 +1,5 @@
 # 기초부터 다지는 통계학 교과서(ISLP_labs)
-
-# [강의용 자료](https://drive.google.com/drive/folders/1LZ6sPEQIAA02P4F_hhBD298wrh7o9iGK?usp=sharing)       
-
-
----------------------------------------------
+      
 # 목차
 
 - 2장 통계적 학습 : 
