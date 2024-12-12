@@ -1,4 +1,6 @@
 # 기초부터 다지는 통계학 교과서(ISLP_labs)
+[표지](./cover.png)
+
       
 # 목차
 
@@ -40,6 +42,9 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KoISLP/lab/blob/main/Ch13-multiple-lab.ipynb)
 
 ---------------------------------------------
+
+판매처 : https://product.kyobobook.co.kr/detail/S000214961072
+
 
 # 인용               
 @book{song2024intro,           
