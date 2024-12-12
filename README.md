@@ -1,5 +1,5 @@
 # 기초부터 다지는 통계학 교과서(ISLP_labs)
-[표지](./cover.png)
+<img src="cover.jpg">
 
       
 # 목차
