@@ -1,7 +1,7 @@
 # 기초부터 다지는 통계학 교과서(ISLP_labs)
 <img src="cover.jpg">
 
-# 강의 교안 신청 링크 https://docs.google.com/forms/d/e/1FAIpQLSfvYt7AB3QjWoOcNzZs-d-Vqv1YfjQ2ya2AJ34r5S3DruZvPQ/viewform
+# [강의 교안 신청 링크](https://docs.google.com/forms/d/e/1FAIpQLSfvYt7AB3QjWoOcNzZs-d-Vqv1YfjQ2ya2AJ34r5S3DruZvPQ/viewform)
 
     
 # 목차
