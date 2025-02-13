@@ -46,11 +46,11 @@
 ---------------------------------------------
 
 판매처 :    
-[종이책] https://product.kyobobook.co.kr/detail/S000214961072
-[전자책] https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000011043972
-
-관련 영상
-https://www.youtube.com/playlist?list=PLqkITFr6P-oSfOYL3OJYRRc0FsUgJwMY3
+[종이책] https://product.kyobobook.co.kr/detail/S000214961072          
+[전자책] https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000011043972              
+                   
+관련 영상                   
+https://www.youtube.com/playlist?list=PLqkITFr6P-oSfOYL3OJYRRc0FsUgJwMY3                     
 
 # 인용               
 @book{song2024intro,           
